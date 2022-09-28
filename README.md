@@ -1,4 +1,4 @@
 # Exoplanet-Radius-Prediction
 Using NASA data to predict exoplanet radii
 
-By Geordie Elliot-Kerr & Benjamin Grayland
+By Geordi (S3465651) & Benjamin Grayland (S3927837)
